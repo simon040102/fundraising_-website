@@ -1,5 +1,8 @@
-.warp{
+.wrap{
     font-family: NotoSansCJKtc-Bold;
+    a{
+        text-decoration: none;
+    }
 }
 .full{
     max-width:100%;
@@ -192,6 +195,7 @@ background-color: white;
     padding: 16px 16px 0px 16px;
     
 }
+
 // *{
 //     outline: 1px solid red;
 // }

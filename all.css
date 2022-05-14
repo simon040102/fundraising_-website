@@ -12160,8 +12160,12 @@ fieldset:disabled .btn {
   }
 }
 
-.warp {
+.wrap {
   font-family: NotoSansCJKtc-Bold;
+}
+
+.wrap a {
+  text-decoration: none;
 }
 
 .full {
